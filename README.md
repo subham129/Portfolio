@@ -1,7 +1,7 @@
 # Business Analyst
    Business Analyst with expertise in data-driven decision-making, process optimization, and strategic insights. Skilled in Power BI, SQL, and market analysis to drive business growth.
 
-#### Technical Skills: Excel, Python, Power Bi, Tablue, SQL, , Google Analytics
+#### Technical Skills: Excel, Python, Power Bi, Tableau, SQL, Google Analytics
 
 ## Education 			        		
 - BCOM.Hons - Deen Dayal Uphadayay College (_2025_)
@@ -35,13 +35,21 @@
 
  ![Bike Study](/assets/download.jpeg)
 
+ #### Purpose:
+   This project aims to analyze customer sentiment from Amazon product reviews to gain insights into consumer preferences and product performance.
 
-- Analyzed 300,000+ Amazon product reviews using Natural Language Processing (NLP) to uncover customer sentiment and key concerns.
-- Implemented advanced NLP techniques, including sentiment analysis, tokenization, and topic modeling, to classify reviews into positive, neutral, and negative categories.
-- Identified common customer pain points such as product quality issues, delivery delays, and poor customer service through in-depth data analysis.
-- Generated actionable insights to help businesses enhance product features, packaging, and customer support strategies based on real consumer feedback.
-- Delivered a detailed report outlining root causes of negative feedback and strategic recommendations for improvement.
-- Tools Used: Python (NLTK, SpaCy), Pandas, Matplotlib.
+ #### Objectives:
+   - Extract and clean textual data from Amazon reviews.
+   - Apply Natural Language Processing (NLP) techniques to classify sentiments (positive, negative, neutral).
+   - Use sentiment analysis to help businesses understand customer feedback and improve their products.
+
+ #### Approch & Implementation:
+   - Analyzed 300,000+ Amazon product reviews using Natural Language Processing (NLP) to uncover customer sentiment and key concerns.
+   - Implemented advanced NLP techniques, including sentiment analysis, tokenization, and topic modeling, to classify reviews into positive, neutral, and negative categories.
+   - Identified common customer pain points such as product quality issues, delivery delays, and poor customer service through in-depth data analysis.
+   - Generated actionable insights to help businesses enhance product features, packaging, and customer support strategies based on real consumer feedback.
+   - Delivered a detailed report outlining root causes of negative feedback and strategic recommendations for improvement.
+   - Tools Used: Python (NLTK, SpaCy), Pandas, Matplotlib.
 
 
 
