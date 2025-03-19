@@ -33,7 +33,7 @@
 - Delivered a detailed report outlining root causes of negative feedback and strategic recommendations for improvement.
 - Tools Used: Python (NLTK, SpaCy), Pandas, Matplotlib.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/download.jpeg)
 
 ### Sales Forecast
 
@@ -45,4 +45,4 @@
 - Utilized SQL and Python for data extraction, preprocessing, and predictive modeling.
 - Provided strategic recommendations for pricing, promotions, and demand planning based on forecasted trends.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/download(1).jpeg)
