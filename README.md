@@ -35,15 +35,15 @@
 
  ![Bike Study](/assets/download.jpeg)
 
-  **Purpose:
-   This project aims to analyze customer sentiment from Amazon product reviews to gain insights into consumer preferences and product performance.
+  **Purpose:**
+   - This project aims to analyze customer sentiment from Amazon product reviews to gain insights into consumer preferences and product performance.
 
-  **Objectives:
+  **Objectives:**
    - Extract and clean textual data from Amazon reviews.
    - Apply Natural Language Processing (NLP) techniques to classify sentiments (positive, negative, neutral).
    - Use sentiment analysis to help businesses understand customer feedback and improve their products.
 
-  **Approch & Implementation:
+  **Approch & Implementation:**
    - Analyzed 300,000+ Amazon product reviews using Natural Language Processing (NLP) to uncover customer sentiment and key concerns.
    - Implemented advanced NLP techniques, including sentiment analysis, tokenization, and topic modeling, to classify reviews into positive, neutral, and negative categories.
    - Identified common customer pain points such as product quality issues, delivery delays, and poor customer service through in-depth data analysis.
@@ -57,16 +57,16 @@
 
  ![Bike Study](/assets/download1.jpeg)
 
- **Purpose:
-   The project focuses on predicting future sales trends using historical data, allowing businesses to make data-driven decisions.
+ **Purpose:**
+   - The project focuses on predicting future sales trends using historical data, allowing businesses to make data-driven decisions.
 
-  **Objectives:
+  **Objectives:**
    - Collect and preprocess sales data from various sources.
    - Implement machine learning models (such as Linear Regression, ARIMA, or XGBoost) to forecast sales.
    - Provide actionable insights to optimize inventory management and marketing strategies.
 
      
-  **Approch & Implementation:    
+  **Approch & Implementation:**    
    - Analyzed historical sales data to identify trends, seasonality, and demand patterns.
    - Developed predictive models (Linear Regression, Random Forest, XGBoost) to forecast future sales.
    - Performed feature engineering, incorporating external factors like holidays and promotions to improve model accuracy.
@@ -80,15 +80,15 @@
 
  ![churn](/assets/download2.png)
 
- **Purpose:
-   This project aims to identify customers who are likely to stop using a service, helping businesses retain valuable customers.
+ **Purpose:**
+   - This project aims to identify customers who are likely to stop using a service, helping businesses retain valuable customers.
 
-  **Objectives:
+  **Objectives:**
    - Analyze customer behavior and transaction history.
    - Use classification models (such as Random Forest, Logistic Regression, or Neural Networks) to predict churn probability.
    - Develop strategies to improve customer retention and engagement.
      
- **Approch & Implementation:
+ **Approch & Implementation:**
    - Analyzed customer data to identify key factors influencing churn in a telecom and internet service provider.
    - Developed a neural network model using TensorFlow/Keras to predict customer churn with high accuracy.
    - Engineered features from customer demographics, service usage, contract details, and support interactions.
