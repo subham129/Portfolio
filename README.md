@@ -40,7 +40,8 @@
 
 ### Sales Forecast
 
-![Bike Study](/assets/download (1).jpeg)
+![Bike Study](/assets/download1.jpeg)
+
 
 - Analyzed historical sales data to identify trends, seasonality, and demand patterns.
 - Developed predictive models (Linear Regression, Random Forest, XGBoost) to forecast future sales.
