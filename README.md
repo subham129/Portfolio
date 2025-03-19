@@ -7,24 +7,42 @@
 
 ## Work Experience
 **Business Analyst @ Star Group (_January 2024 - December 2024_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Analyzed business processes to identify inefficiencies and recommend data-driven improvements.
+- Gathered and documented business requirements for process automation and system enhancements by collaborating with key stakeholders.
+- Developed interactive dashboards and reports using Power BI and Excel, improving data visibility and supporting strategic decision-making.
+- Conducted market research and competitor analysis to support business growth strategies.
+- Performed SQL-based data analysis to identify key trends and provide actionable insights.
+- Collaborated with cross-functional teams to implement process automation solutions, enhancing productivity and streamlining operational workflows.
 
 **Sales Analyst @ Merakii Brand Pro (_Febuary 2025 - Ongoing_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Analyzed sales data to identify trends, patterns, and opportunities for revenue growth.
+- Developed interactive dashboards and reports using Power BI, Tableau, and Excel to track sales performance, KPIs, and market trends.
+- Conducted pricing and revenue analysis to optimize profit margins and improve sales forecasting accuracy.
+- Collaborated with cross-functional teams to provide data-driven recommendations for sales strategy and customer targeting.
+- Performed SQL-based data extraction and analysis to uncover insights into customer behavior and sales performance.
+- Monitored competitor sales strategies and provided market intelligence reports to support decision-making.
+- Identified inefficiencies in the sales process and recommended automation solutions to enhance productivity.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Amazon Product Sentiment Analysis using NLP
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Analyzed 300,000+ Amazon product reviews using Natural Language Processing (NLP) to uncover customer sentiment and key concerns.
+- Implemented advanced NLP techniques, including sentiment analysis, tokenization, and topic modeling, to classify reviews into positive, neutral, and negative categories.
+- Identified common customer pain points such as product quality issues, delivery delays, and poor customer service through in-depth data analysis.
+- Generated actionable insights to help businesses enhance product features, packaging, and customer support strategies based on real consumer feedback.
+- Delivered a detailed report outlining root causes of negative feedback and strategic recommendations for improvement.
+- Tools Used: Python (NLTK, SpaCy), Pandas, Matplotlib.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Sales Forecast
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+- Analyzed historical sales data to identify trends, seasonality, and demand patterns.
+- Developed predictive models (Linear Regression, Random Forest, XGBoost) to forecast future sales.
+- Performed feature engineering, incorporating external factors like holidays and promotions to improve model accuracy.
+- Built interactive sales forecasting dashboards using Power BI/Tableau for real-time insights.
+- Optimized inventory management by reducing stockouts by 20% and minimizing overstocking.
+- Utilized SQL and Python for data extraction, preprocessing, and predictive modeling.
+- Provided strategic recommendations for pricing, promotions, and demand planning based on forecasted trends.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
