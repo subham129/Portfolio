@@ -1,5 +1,5 @@
 # Business Analyst
- Business Analyst with expertise in data-driven decision-making, process optimization, and strategic insights. Skilled in Power BI, SQL, and market analysis to drive business growth.
+   Business Analyst with expertise in data-driven decision-making, process optimization, and strategic insights. Skilled in Power BI, SQL, and market analysis to drive business growth.
 
 #### Technical Skills: Excel, Python, Power Bi, Tablue, SQL, , Google Analytics
 
@@ -7,9 +7,9 @@
 - BCOM.Hons - Deen Dayal Uphadayay College (_2025_)
 
 ## Certifications 
- - Complete A.I & Machine Learning , Data Science
+- Complete A.I & Machine Learning , Data Science
  Bootcamp Certification -Udemy (_2024_)
- - Google Analytics - Great Learning Academy (_2024_)
+- Google Analytics - Great Learning Academy (_2024_)
  
 
 ## Work Experience
@@ -59,7 +59,7 @@
 - Provided strategic recommendations for pricing, promotions, and demand planning based on forecasted trends.
 
 
-###Customer Churn Prediction | Telecom Company
+### Customer Churn Prediction 
 
  ![churn](/assets/download2.png)
 
