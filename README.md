@@ -26,6 +26,9 @@
 ## Projects
 ### Amazon Product Sentiment Analysis using NLP
 
+![Bike Study](/assets/download.jpeg)
+
+
 - Analyzed 300,000+ Amazon product reviews using Natural Language Processing (NLP) to uncover customer sentiment and key concerns.
 - Implemented advanced NLP techniques, including sentiment analysis, tokenization, and topic modeling, to classify reviews into positive, neutral, and negative categories.
 - Identified common customer pain points such as product quality issues, delivery delays, and poor customer service through in-depth data analysis.
@@ -33,9 +36,11 @@
 - Delivered a detailed report outlining root causes of negative feedback and strategic recommendations for improvement.
 - Tools Used: Python (NLTK, SpaCy), Pandas, Matplotlib.
 
-![EEG Band Discovery](/assets/download.jpeg)
+
 
 ### Sales Forecast
+
+![Bike Study](/assets/download (1).jpeg)
 
 - Analyzed historical sales data to identify trends, seasonality, and demand patterns.
 - Developed predictive models (Linear Regression, Random Forest, XGBoost) to forecast future sales.
@@ -45,4 +50,4 @@
 - Utilized SQL and Python for data extraction, preprocessing, and predictive modeling.
 - Provided strategic recommendations for pricing, promotions, and demand planning based on forecasted trends.
 
-![Bike Study](/assets/download(1).jpeg)
+
