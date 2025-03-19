@@ -1,9 +1,16 @@
 # Business Analyst
+ Business Analyst with expertise in data-driven decision-making, process optimization, and strategic insights. Skilled in Power BI, SQL, and market analysis to drive business growth.
 
-#### Technical Skills: Excel, Python, Power Bi, Tablue, SQL, , MATLAB
+#### Technical Skills: Excel, Python, Power Bi, Tablue, SQL, , Google Analytics
 
 ## Education 			        		
-- BCOM.Hons | Deen Dayal Uphadayay College (_2025_)
+- BCOM.Hons - Deen Dayal Uphadayay College (_2025_)
+
+## Certifications 
+ - Complete A.I & Machine Learning , Data Science
+ Bootcamp Certification -Udemy (_2024_)
+ - Google Analytics - Great Learning Academy (_2024_)
+ 
 
 ## Work Experience
 **Business Analyst @ Star Group (_January 2024 - December 2024_)**
@@ -26,7 +33,7 @@
 ## Projects
 ### Amazon Product Sentiment Analysis using NLP
 
-![Bike Study](/assets/download.jpeg)
+ ![Bike Study](/assets/download.jpeg)
 
 
 - Analyzed 300,000+ Amazon product reviews using Natural Language Processing (NLP) to uncover customer sentiment and key concerns.
@@ -40,7 +47,7 @@
 
 ### Sales Forecast
 
-![Bike Study](/assets/download1.jpeg)
+ ![Bike Study](/assets/download1.jpeg)
 
 
 - Analyzed historical sales data to identify trends, seasonality, and demand patterns.
@@ -51,4 +58,17 @@
 - Utilized SQL and Python for data extraction, preprocessing, and predictive modeling.
 - Provided strategic recommendations for pricing, promotions, and demand planning based on forecasted trends.
 
+
+###Customer Churn Prediction | Telecom Company
+
+ ![churn](/assets/download2.png)
+
+  
+- Analyzed customer data to identify key factors influencing churn in a telecom and internet service provider.
+- Developed a neural network model using TensorFlow/Keras to predict customer churn with high accuracy.
+- Engineered features from customer demographics, service usage, contract details, and support interactions.
+- Trained and optimized deep learning models, comparing performance with traditional models like Logistic Regression and Random Forest.
+- Utilized SQL and Python (Pandas, NumPy, Scikit-Learn) for data preprocessing and model development.
+- Built interactive dashboards in Power BI/Tableau to visualize churn trends and customer retention insights.
+- Provided strategic recommendations to reduce churn by identifying high-risk customers and improving retention strategies.
 
